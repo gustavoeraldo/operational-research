@@ -117,4 +117,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Gustavo Eraldo](https://github.com/EraldoCi), [Marismar Costa](https://github.com/marismarcosta).<br />
-This project is [MIT]((https://github.com/EraldoCi/operational-research/tree/master/duality/LICENSE)) licensed.
+This project is [MIT]((https://github.com/EraldoCi/operational-research/blob/master/duality/LICENSE)) licensed.
