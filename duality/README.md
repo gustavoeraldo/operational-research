@@ -54,12 +54,12 @@ pip install cplex
 
 <!-- ![teste](canonical.png "canonical") -->
 <p align="center">
-  <img src="./canonical.png"></img>
+  <img src=".github/canonical.png"></img>
   <p>Subject to :</p>
 </p>
 
 <p align="center">
-  <img src="./subject.png"></img>
+  <img src=".github/subject.png"></img>
 </p>
 
  
@@ -84,13 +84,13 @@ pip install cplex
 You can use the [project sample](https://github.com/EraldoCi/operational-research/blob/master/project-1/problema.txt "problema.txt") to test. To test others examples remeber to follow the input pattern and use **only numbers**.
 
 <p align="center">
-  <img src="objective-func.png">
+  <img src=".github/objective-func.png">
 </p>
 
 Subject to :
 
 <p align="center">
-  <img src="constraints.png">
+  <img src=".github/constraints.png">
 </p>
 
 Input format :
