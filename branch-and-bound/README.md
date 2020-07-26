@@ -74,7 +74,7 @@ As you can see in the follow example :
 You can use the [project sample](https://github.com/EraldoCi/operational-research/blob/master/branch-and-bound/problema.txt "problema.txt") for testing. For others inputs remeber to follow the pattern using **only numbers**.
 
 <p align="center">
-  <img src=".github/obj-func.png">
+  <img src=".github/objective-func.png">
 </p>
 
 Subject to :
@@ -91,7 +91,6 @@ Input format :
 3 5 2 6 // constraint 1
 4 4 4 7 // constraint 2
 ```
-
 
 ## Run
 
