@@ -1,4 +1,4 @@
-# Trabalho 2 : Implementação do Brach & Bound
+# Trabalho 2 : Implementação do Branch & Bound
 
 - **Comando para execução :** python bb.y
 
