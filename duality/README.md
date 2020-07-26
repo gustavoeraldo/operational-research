@@ -47,6 +47,7 @@ Or use pip library :
 ```sh
 pip install cplex
 ```
+More [examples](https://ibmdecisionoptimization.github.io/tutorials/html/Beyond_Linear_Programming.html#Use-IBM-Decision-Optimization-CPLEX-Modeling-for-Python) of usage.
 
 ## Objective
 
